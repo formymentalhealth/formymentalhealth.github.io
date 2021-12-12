@@ -4,7 +4,14 @@ const names = [
     'Mateus',
     'Lucas',
     'Manuela',
-    'Jaque'
+    'Jaque',
+    'Luana',
+    'Lara',
+    'Wesley',
+    'Esther',
+    'Gabriel',
+    'Mahonri',
+    'Valentina'
 ]
 
 function getCharProperties(str) {
