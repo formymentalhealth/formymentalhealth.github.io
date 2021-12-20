@@ -14,7 +14,9 @@ const names = [
     'Valentina',
     'Isadora',
     'Malu',
-    'Livia'
+    'Livia',
+    'Potuk',
+    'Eliane'
 ]
 
 function getCharProperties(str) {
