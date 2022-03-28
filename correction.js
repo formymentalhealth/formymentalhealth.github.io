@@ -20,7 +20,11 @@ const names = [
     'Kennedy',
     'Harumi',
     'Thiago',
-    'Bárbara'
+    'Bárbara',
+    'Jacqueline',
+    'Eliane',
+    'Carol',
+    'Simone'
 ]
 
 function getCharProperties(str) {
